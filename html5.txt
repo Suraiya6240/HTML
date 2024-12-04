@@ -1,0 +1,26 @@
+<DOCTYPE html>
+   <html>
+      <head>
+        <title> HTML5 tags </title>
+      <style>
+        details[open] > summary
+       {
+        background-color: light blue;
+        }
+        </style>
+       </head>
+    <body>
+        <details>
+<summary> summary here </summary>
+this my personal bio-date. 
+
+     </details>
+<details>
+    <figure>
+      <img src=""alt=""/>
+      <figcaption> fig1: list image </figcation>
+     </figure>
+ </details>
+
+    </body>
+   </html>

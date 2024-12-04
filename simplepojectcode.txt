@@ -1,0 +1,118 @@
+<DOCTYPE html>
+   <html>
+      <head>
+         <title> MY Project </title>
+      </head>
+      <body>
+      <h1 align = "center"> Study with me </h1>
+       <hr>
+<iframe src="https://www.studywithanis.com/ height="350 px" width="650px"></iframe>
+<iframe width="650px" height="350px" src="https://www.youtube.com/embed/C3NTM5vZ_Ao?si=PPyHKIXTylhJiICB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
+<p> Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie morbi rutrum dignissim netus class condimentum elementum augue. Feugiat dignissim ligula quam inceptos porttitor, arcu imperdiet massa quam. Metus odio auctor fusce posuere venenatis. Placerat nec consectetur finibus egestas auctor ac curae class! Primis tristique eleifend massa ridiculus felis. Tempus integer orci fusce ad nisi sociosqu. Ridiculus pharetra nullam vestibulum consequat ac iaculis augue cubilia congue. Asollicitudin rhoncus justo mollis mollis ullamcorper suscipit nascetur. Tempus habitant dapibus sagittis feugiat nullam senectus fermentum.</p>
+
+<p>Pretium elit curae sem luctus in quam iaculis vel. Litora ante magna commodo leo justo nostra. Tempus augue felis cras sit vitae euismod tempor? Fusce habitasse dis enim hendrerit eu luctus auctor vestibulum. Sollicitudin pharetra fames finibus rhoncus quisque purus dapibus neque. Porttitor facilisis rhoncus vitae mollis etiam dapibus. Accumsan curabitur cubilia habitasse lacus; accumsan donec ullamcorper hac. Sed pretium facilisis elementum habitant et morbi placerat. Rutrum nulla massa tellus cursus senectus.</p>
+
+<p>Ac felis amet nullam neque erat facilisi nullam habitant. Risus conubia dui morbi nam at odio elit. Hac etiam ornare sollicitudin fringilla enim ridiculus ornare taciti. Metus maecenas netus a ipsum lobortis venenatis. Parturient leo dolor vel nibh rutrum a. Dignissim viverra sodales rhoncus, porttitor mus fames curae laoreet. Suscipit tortor eleifend dictum at luctus; dolor eleifend convallis. Faucibus erat semper donec habitant urna in pellentesque.</p>
+
+<p>Rutrum nibh finibus torquent justo gravida. Maximus erat proin ex augue leo ex. Vel vel ex turpis platea luctus per proin hendrerit. Egestas leo gravida taciti leo taciti natoque odio. Risus urna suscipit ultricies fusce tincidunt. Diam tristique bibendum penatibus convallis tortor lectus diam. Sem arcu nostra vulputate tincidunt urna. Conubia vitae hac aptent augue sodales montes est. Eu conubia sem fermentum iaculis quam hac fames.</p>
+
+<p>Pulvinar ipsum vulputate sed; rhoncus dignissim sit litora morbi. Nec cursus tortor massa ac metus fermentum donec. Mus morbi odio egestas tellus ut ornare conubia pellentesque. Orci curae feugiat vivamus cubilia faucibus rhoncus phasellus amet nascetur. Luctus mattis nostra sapien aptent rutrum sagittis suscipit hendrerit. Proin sagittis conubia massa commodo condimentum torquent consequat vestibulum ipsum. Scelerisque mi euismod fermentum ut magna nibh iaculis ligula penatibus. Donec feugiat congue, tellus sit magna potenti justo. Integer porta natoque tempor molestie egestas vestibulum.</p>
+
+<p>Platea auctor sit ante integer hac. Semper cubilia odio at quis mattis leo eros ridiculus. Ipsum suscipit lorem ullamcorper tempus est. Sem senectus etiam malesuada adipiscing nascetur commodo; pharetra habitant tortor. Anullam diam ac, hendrerit mattis aptent. Porta placerat facilisi, aptent efficitur mi lectus. Luctus hendrerit dictum imperdiet montes dapibus sociosqu vehicula porta. Nulla porttitor duis habitasse; facilisis varius ridiculus? Enim ligula maximus nam blandit netus tempor. Vivamus porttitor mauris semper sodales id.</p>
+<hr>
+   <table border="3">
+       <caption> Student information</caption>
+         <thead>
+            <tr>
+           <th> ID</th>
+             <th> Name</th>
+                <th> CGPA </th>
+            </tr>
+        <tbody>
+         <tr>
+           <td> 202</td>
+             <td> suraiya</td>
+                <td> 3.80 </td>
+            </tr>
+              <tr>
+           <td> 202</td>
+             <td> bilkis</td>
+                <td> 3.85 </td>
+            </tr>
+                <tr>
+           <td> 202</td>
+             <td> tisha</td>
+                <td> 3.90 </td>
+            </tr>
+       </tbody>
+     </table>
+     <hr>
+ <form>
+     <datalist id="names">
+         <option> tisha</option>
+           <option> bilkis</option>
+              <option> suraiya</option>
+        </datalist>
+
+      <div>
+<label for="name"> UserName :</label>
+   <input type="text" list="names" placeholder ="write your name">
+</div>
+<br>
+<div>
+<label for="password"> Password :</label>
+   <input type="password"placeholder ="write your password" > 
+</div>
+<br> 
+<div>
+<label for="email"> Email :</label>
+   <input type="text" placeholder ="write your email">
+</div><br>
+ <div>
+<label> Religion : </label>
+    <input type="checkbox"> Islam 
+ <input type= "checkbox">Hindu
+  </div><br>
+ <div> 
+
+ <label> Gender :</label>
+    <input type="radio"> Male
+     <input type="radio"> Female
+    </div><br>
+    <div>
+    <label> Department : </label>
+      <select>
+       <option> CSE</option>
+        <option> BBA </option>
+           <option> EEE</option>
+      </select>
+     </div>
+ <div>
+   <label> Feedback :
+    </label><br>
+   <textarea>
+
+    </textarea>
+  </div>
+<br>
+    <div>
+      <input type="submit" value="sing up">
+       <input type ="reset" value ="clear">
+</div>
+</form>
+<hr>
+<div>
+  <video width="400px" height="400px" controls>
+       <source src="https://youtu.be/OMoU0Pfibc4?si=4aDueUncJuMiZYKN" type="video/mp4">
+</div>
+    <ol>
+<li><a href ="https://www.youtube.com">my facebook page</li>
+<li><a href ="https://www.google.com">check my page</li>
+
+      <ol>
+<p>
+    Developer by<font color= "blue" size="6 px"> &copy; Suriya bilkis</font>
+</p>
+     </body>
+   </html>  

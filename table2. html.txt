@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+   <html>
+     <head>
+       <title> Html Table 2 </title>
+ <style>
+      table
+        {
+          border-collapse: collapse;
+         }
+  </style>
+       </head>
+     <body>
+    <table border ="2" bgcolor= "pink" width="200" height="300">
+      <thead>
+       <tr>
+          <th rowspan= "2"> Name </th>
+            <th> Id </th>
+              <th colspan="2"> Phn No </th>
+        </tr>
+      </thead>
+       <tbody>
+         <tr>
+          <td> Tisha</td>
+           <td> 201</td>
+             <td > 01734789940 </td>
+              <td rowspan="2"> 01740608330</td>
+          </tr>
+           <tr>
+          <td> Suraiya </td>
+           <td> 202</td>
+             <td>0173980801 </td>
+               
+          </tr>
+        </tbody>
+     </table>
+   </body>
+</html>
+
