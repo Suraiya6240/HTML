@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector & Combinator</title>
+    <style>
+        /* h1{
+            background-color:palevioletred;
+        }
+        p{
+            background-color: blueviolet;
+        }
+        /* #para1{
+            background-color: crimson;
+        }
+        .center{
+            text-align: center;
+            color: azure;
+        } */ 
+         *{
+            background-color: deeppink;
+          }
+           /* selector  */
+           /* grouping selector ek sathe onek gula kaj kora jay*/
+          h1,p{
+            background-color: darkmagenta;
+            color: antiquewhite;
+          }
+          /* disenand selector */
+         div p{
+            color: black;
+         }
+         /* child selector */
+         div> p{
+            color: chartreuse;
+         }
+         /* ajd sibling */
+         div+p{
+            color: gold;
+         }
+         /* general sibling */
+         div~p{
+            color: dodgerblue;
+         }
+    </style>
+</head>
+<body>
+    <h1>
+        This is a h1 tag
+    </h1>
+    <div>
+        <p>This is a paragraph</p>
+        <p id="para1">This is a paragraph</p>
+        <section><p id="para1">This is a paragraph</p></section>
+        
+    </div>
+    <p> color make your mind fresh</p>
+    <p class="center">Where are you going</p>
+</body>
+</html>

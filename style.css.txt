@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> CSS style </title>
+   </head>
+    <body>
+     <h1 style="color:green;font-size=20px">Hi! I am Suraiya Bilkis Tisha.</h1>
+         <h2 style="color:blue;font-size=10px">Recently i am learning html</h2>
+       <h1 style="color:orange;font-size=20px">It's very easy to learn.</h1>
+<p style= "color: orange;font-size=5px">HTML full form is hyper text markup language.it's not a programming language but most of the wedsite builde in html.it is basic structure for web making.</p>
+    </body>
+  </html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suraiya Bilkis</title>
+</head>
+<body>
+   <header> 
+<!--Header section starts here -->
+<h1>Tisha </h1>
+<img src="./images1/cv_photo.jpeg" alt="profile photo"/ height="200px"><br>
+<strong>software developer</strong>
+<p>
+    <a href="https://www.studywithanis.com/" target="_blank"> My website</a>
+    <a href="https://www.linkedin.com/in/anisul2020/" target="_blank"> Linkedin</a>
+    <a href="tel: +01745786240" target="_blank">phone</a>
+</p>
+<hr>
+   </header>
+   <main>
+ <!-- Summary ends here-->
+ <section>
+    <h2><em>Summary</em></h2>
+ <p> A software web & cloud development graduate,an experienced full stack software develper with a diverse and interesting technical background.Last 8 year trained millions of students in javascript,typescript,react.js,rest api ,c++,pytho ,java.</p>
+ </section>
+ <!--Employment history section starts here-->
+ <section> 
+    <h2> Employment history</h2>
+    <ol>
+       <li><b> Junior Software Developer at M-Files</b>
+       <span> DEC 2021-JAN 2022</span> 
+   <P> Developed & tested M-Files react metadata card</P></li>
+   <li> 
+       <b> Research assistant,Tampere university,Tampere,finland</b>
+       <span> NOV 2020-JAN 2021</span>
+       <P>Full stack website for the users to explore and select open-source software</P>
+   </li>
+   <li>
+       <b>project team leader,Demola Global</b> 
+   <span>
+       NOV 2020-APR 2022    </span>
+   <P>Led and delivered a project to a client,M-Files to update the core apptication.</P>
+   </li>
+    </ol> 
+ </section>
+ <!--Enployment history section ends here-->
+ <!--Education section starts here-->
+<section>
+    <h2>Education history</h2>
+    <ul>
+       <li>
+           <strong> M.Sc.in software,web and cloud</strong>
+           <p>Tampere University,Tampere, Finland </p>
+           <p> Grading point: 3.79/4</p>
+       </li>
+       <li>
+       <strong> B.Sc. in computer science</strong>
+           <p>Dhaka university,Dhaka </p>
+           <p> Grading point: 3.88/4</p>
+       </li>
+    </ul>
+</section>
+ <!--Education section ends here-->
+ <!--Skill section start here-->
+ <section>
+    <h2>Skills</h2>
+ <table border="1">
+    <thead>
+        <tr>
+            <th>Technologies</th>
+            <th>Skill level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> C Programming</td>
+            <td>★★★☆ </td>
+            
+        </tr>
+           <tr>
+            <td>java</td>
+            <td>★★☆</td>
+        </tr>
+
+    </tbody>
+ </table>
+ </section>
+<!--skill section ends here-->
+<!--contact section start here-->
+<section>
+    <h2> Contact with me</h2>
+<form>
+    <div>
+        <label for="Name"> Name:</label>
+        <input type="text" id="name"/>  
+    </div>
+    <br>
+    <div>
+        <label for="email"> Email:</label>
+        <input type="email" id="email"/>  
+    </div>
+    <br>
+    <div>
+        <span>Gender:</span>
+        <input type="radio" name="gender" id="male"/>
+        <label for="male"> Male</label>
+        <input type="radio" name="gender" id="female"/>
+        <label for="female"> Female</label>
+    </div><br>
+    <div> 
+        <label for="occupation"> occupation</label>
+        <select name="" id="occupation">
+            <option>
+                student
+            </option>
+            <option>
+                teacher
+            </option>
+        </select>
+    </div>
+    <br>
+      <div>
+        <label for="message"> Message</label>
+        <textarea name="" id="message" cols="30" rows="10"></textarea>
+     </div><br>
+     <div>
+        <button type="Submit">Send Message</button>
+     </div>
+     <br>
+     
+</form>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.4030040545454!2d90.3770702743934!3d23.804264286708126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c72eaa598267%3A0xb5108ab1c275a4c2!2sPSC%20Convention%20Hall%20-%20Mirpur-13!5e0!3m2!1sen!2sbd!4v1729958633899!5m2!1sen!2sbd" width="600" height="450" 
+title="Address map"
+style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+<!--Contact section ends here-->
+   </main>
+   <footer>
+     <!--footer section satrts here -->
+     <p> Developer with  &hearts; by Tisha</p>
+     <p>copyright &copy; 2022</p>
+     <!--footer section ends here-->
+   </footer>  
+</body>
+</html>
